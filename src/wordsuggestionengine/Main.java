@@ -26,4 +26,4 @@ public class Main {
     // this prints the next words
     aa.printNextWords();
   }
-}
+} 
